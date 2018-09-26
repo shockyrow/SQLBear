@@ -1,0 +1,13 @@
+c:\users\ibrokhim\documents\visual studio 2012\Projects\SQLBear\SQLBear\bin\Debug\SQLBear.exe.config
+c:\users\ibrokhim\documents\visual studio 2012\Projects\SQLBear\SQLBear\obj\Debug\SQLBear.csprojResolveAssemblyReference.cache
+c:\users\ibrokhim\documents\visual studio 2012\Projects\SQLBear\SQLBear\obj\Debug\MainWindow.baml
+c:\users\ibrokhim\documents\visual studio 2012\Projects\SQLBear\SQLBear\obj\Debug\MainWindow.g.cs
+c:\users\ibrokhim\documents\visual studio 2012\Projects\SQLBear\SQLBear\obj\Debug\App.g.cs
+c:\users\ibrokhim\documents\visual studio 2012\Projects\SQLBear\SQLBear\obj\Debug\SQLBear_MarkupCompile.cache
+c:\users\ibrokhim\documents\visual studio 2012\Projects\SQLBear\SQLBear\obj\Debug\SQLBear.g.resources
+c:\users\ibrokhim\documents\visual studio 2012\Projects\SQLBear\SQLBear\obj\Debug\SQLBear.Properties.Resources.resources
+c:\users\ibrokhim\documents\visual studio 2012\Projects\SQLBear\SQLBear\obj\Debug\SQLBear.csproj.GenerateResource.Cache
+c:\users\ibrokhim\documents\visual studio 2012\Projects\SQLBear\SQLBear\bin\Debug\SQLBear.exe
+c:\users\ibrokhim\documents\visual studio 2012\Projects\SQLBear\SQLBear\bin\Debug\SQLBear.pdb
+c:\users\ibrokhim\documents\visual studio 2012\Projects\SQLBear\SQLBear\obj\Debug\SQLBear.exe
+c:\users\ibrokhim\documents\visual studio 2012\Projects\SQLBear\SQLBear\obj\Debug\SQLBear.pdb
